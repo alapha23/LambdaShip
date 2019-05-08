@@ -12,7 +12,9 @@ import (
 var service = NewService()
 
 type Service struct {
+	// sarama kafka client
 	client sarama.Client
+	// might add serverless client
 	offset int64
 }
 
