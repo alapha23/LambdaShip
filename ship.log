@@ -1,6 +1,0 @@
-2019/05/07 17:51:59 main.go:27: [0;36m[debug] Conf({AppName:LambdaShip LogName:./ship.log LogRotate:day PidFilePath:./ Port:9001 PprofHost:0.0.0.0:9002 KafkaHost:127.0.0.1:9092})[0m
-2019/05/07 17:51:59 main.go:27: [0;37m[info] [LambdaShip]Pprof service ok![0m
-2019/05/07 17:51:59 proc.go:200: [0;37m[info] [LambdaShip]Read conf file ok![0m
-2019/05/07 17:51:59 proc.go:200: [0;37m[info] [LambdaShip]Create pid file ok![0m
-2019/05/07 17:51:59 proc.go:200: [0;37m[info] [LambdaShip]Server start![0m
-2019/05/07 17:52:06 main.go:57: [0;37m[info] Get a signal interrupt[0m
